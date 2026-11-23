@@ -141,7 +141,7 @@ If this helped you, please consider giving it a **star ⭐** - it helps others f
 
 ---
 
-## Built with ❤️ for Pakistani IT graduates preparing for NSCT 2027
+## ❤️ Thank you for reading, here's a cat:
 
 [![Cat](https://github.com/ianeesahmad/ianeesahmad/blob/main/cat.gif?raw=true "Thank You ❤️")](https://whatsapp.com/channel/0029VbDrm9zJP21AswLpaE1u)
 
