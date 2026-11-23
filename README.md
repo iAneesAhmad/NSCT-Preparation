@@ -141,4 +141,11 @@ If this helped you, please consider giving it a **star ⭐** - it helps others f
 
 ---
 
+## ❤️ Thank you for reading, here's a cat:
+
+[![Cat](https://github.com/ianeesahmad/ianeesahmad/blob/main/cat.gif?raw=true "Thank You ❤️")](https://anees-ahmad.com)
+
+<hr>
+<p align="center">
 *Built with ❤️ for Pakistani IT graduates preparing for NSCT 2027*
+</p>
