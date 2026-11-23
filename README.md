@@ -147,5 +147,5 @@ If this helped you, please consider giving it a **star ⭐** - it helps others f
 
 <hr>
 <p align="center">
-##Built with ❤️ for Pakistani IT graduates preparing for NSCT 2027
+Built with ❤️ for Pakistani IT graduates preparing for NSCT 2027
 </p>
